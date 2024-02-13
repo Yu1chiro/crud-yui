@@ -1,9 +1,9 @@
 <?php
 
 $host="localhost";
-$user="admin";
-$password="admin2505";
-$db="crud";
+$user="id21869614_crud25_php";
+$password="Yu1crud@25";
+$db="id21869614_crud";
 
 $kon = mysqli_connect($host,$user,$password,$db);
 if (!$kon){
